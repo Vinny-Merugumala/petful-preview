@@ -9,7 +9,7 @@ import WeeklyTipsCard from "./WeeklyTipsCard";
 const articles = [
   {
     image:
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&q=80",
+      "/article-leash-training.png",
     category: "Training",
     categoryColor: "bg-teal/15 text-teal",
     timeAgo: "2 hours ago",
@@ -21,7 +21,7 @@ const articles = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1601758003122-53c40e686a19?w=400&q=80",
+      "/article-skin-conditions.png",
     category: "Health",
     categoryColor: "bg-red/15 text-red",
     timeAgo: "5 hours ago",
@@ -33,7 +33,7 @@ const articles = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=400&q=80",
+      "/article-cat-food.png",
     category: "Nutrition",
     categoryColor: "bg-orange/15 text-orange",
     timeAgo: "8 hours ago",
@@ -45,7 +45,7 @@ const articles = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?w=400&q=80",
+      "/article-new-home-cat.png",
     category: "Behavior",
     categoryColor: "bg-purple/15 text-purple",
     timeAgo: "12 hours ago",
@@ -57,7 +57,7 @@ const articles = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=400&q=80",
+      "/article-body-language.png",
     category: "Behavior",
     categoryColor: "bg-purple/15 text-purple",
     timeAgo: "1 day ago",

@@ -7,7 +7,7 @@ import Image from "next/image";
 const reviews = [
   {
     image:
-      "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=600&q=80",
+      "/review-cat-feeder.png",
     category: "Gear",
     categoryColor: "bg-teal/15 text-teal",
     title: "We Tested 5 Popular Automatic Cat Feeders",
@@ -17,7 +17,7 @@ const reviews = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=600&q=80",
+      "/review-dog-shampoo.png",
     category: "Grooming",
     categoryColor: "bg-orange/15 text-orange",
     title: "The Best Dog Shampoos for Sensitive Skin",
@@ -27,7 +27,7 @@ const reviews = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?w=600&q=80",
+      "/review-water-fountain.png",
     category: "Health",
     categoryColor: "bg-red/15 text-red",
     title: "Are Smart Water Fountains Worth It?",

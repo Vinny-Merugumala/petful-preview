@@ -27,7 +27,7 @@ const dogCategories: Category[] = [
     icon: Stethoscope,
     articles: 45,
     image:
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&q=80",
+      "/browse-dog-health.png",
     alt: "Dog health care",
   },
   {
@@ -35,7 +35,7 @@ const dogCategories: Category[] = [
     icon: Beef,
     articles: 38,
     image:
-      "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?w=400&q=80",
+      "/browse-dog-food.png",
     alt: "Dog food and nutrition",
   },
   {
@@ -43,7 +43,7 @@ const dogCategories: Category[] = [
     icon: Target,
     articles: 52,
     image:
-      "https://images.unsplash.com/photo-1601758003122-53c40e686a19?w=400&q=80",
+      "/browse-dog-training.png",
     alt: "Dog training",
   },
   {
@@ -51,7 +51,7 @@ const dogCategories: Category[] = [
     icon: Dog,
     articles: 67,
     image:
-      "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=400&q=80",
+      "/browse-dog-breeds.png",
     alt: "Dog breeds",
   },
 ];
@@ -62,7 +62,7 @@ const catCategories: Category[] = [
     icon: Stethoscope,
     articles: 32,
     image:
-      "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=400&q=80",
+      "/browse-cat-health.png",
     alt: "Cat health care",
   },
   {
@@ -70,7 +70,7 @@ const catCategories: Category[] = [
     icon: Beef,
     articles: 28,
     image:
-      "https://images.unsplash.com/photo-1606567595334-d39972c85dbe?w=400&q=80",
+      "/browse-cat-food.png",
     alt: "Cat food and nutrition",
   },
   {
@@ -78,7 +78,7 @@ const catCategories: Category[] = [
     icon: SmilePlus,
     articles: 41,
     image:
-      "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=400&q=80",
+      "/browse-cat-behavior.png",
     alt: "Cat behavior",
   },
   {
@@ -86,7 +86,7 @@ const catCategories: Category[] = [
     icon: Cat,
     articles: 35,
     image:
-      "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=400&q=80",
+      "/browse-cat-breeds.png",
     alt: "Cat breeds",
   },
 ];

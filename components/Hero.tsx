@@ -14,7 +14,7 @@ export default function Hero() {
         transition={{ duration: 20, ease: "linear" }}
       >
         <Image
-          src="https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=1920&q=80"
+          src="/hero-family-dog.png"
           alt="Happy family with their golden retriever in a sunny garden"
           fill
           className="object-cover"

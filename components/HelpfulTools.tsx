@@ -7,7 +7,7 @@ import Image from "next/image";
 const tools = [
   {
     image:
-      "https://images.unsplash.com/photo-1548767797-d8c844163c4c?w=400&q=80",
+      "/tool-chocolate-toxicity.png",
     name: "Chocolate Toxicity Calculator",
     description:
       "Quickly check if your dog ate a dangerous amount of chocolate and what steps to take.",
@@ -15,7 +15,7 @@ const tools = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=400&q=80",
+      "/tool-calorie-calculator.png",
     name: "Daily Calorie Calculator",
     description:
       "Find the right portion size for your pet's needs based on breed, age, and activity.",
@@ -23,7 +23,7 @@ const tools = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=400&q=80",
+      "/tool-breed-size.png",
     name: "Breed Size Estimator",
     description:
       "Predict how big your puppy will get based on current weight and breed information.",

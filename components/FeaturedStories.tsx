@@ -7,7 +7,7 @@ import Image from "next/image";
 const stories = [
   {
     image:
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "/featured-puppy-training.png",
     category: "Training",
     categoryColor: "bg-teal/15 text-teal",
     title: "Essential Puppy Training Tips for First-Time Owners",
@@ -15,7 +15,7 @@ const stories = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1545249390-6bdfa286032f?w=600&q=80",
+      "/featured-cat-nutrition.png",
     category: "Nutrition",
     categoryColor: "bg-orange/15 text-orange",
     title: "Understanding Your Cat's Nutritional Needs",
@@ -23,7 +23,7 @@ const stories = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=600&q=80",
+      "/featured-senior-dog.png",
     category: "Health",
     categoryColor: "bg-red/15 text-red",
     title: "Caring for Your Senior Dog: A Complete Guide",
@@ -31,7 +31,7 @@ const stories = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1615497001839-b0a0eac3274c?w=600&q=80",
+      "/featured-vet-checkup.png",
     category: "Health",
     categoryColor: "bg-red/15 text-red",
     title: "When to Take Your Cat to the Vet",
