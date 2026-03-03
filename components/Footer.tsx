@@ -125,7 +125,7 @@ export default function Footer() {
       <div className="max-w-[1320px] mx-auto px-6">
         <div className="border-t border-gray-200 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-gray-400">
-            &copy; 2025 Petful. All rights reserved.
+            &copy; 2026 Petful. All rights reserved.
           </p>
           <div className="flex gap-6 text-xs text-gray-400">
             <a href="#" className="hover:text-dark transition-colors">

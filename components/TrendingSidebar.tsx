@@ -55,7 +55,7 @@ export default function TrendingSidebar() {
             transition={{ duration: 0.4, delay: i * 0.08, ease: "easeOut" }}
             className="group flex gap-4 py-3.5 border-b border-gray-100 last:border-b-0 cursor-pointer"
           >
-            <span className="font-heading text-2xl text-gray-200 leading-none mt-0.5 w-7 shrink-0">
+            <span className="font-heading text-2xl text-coral leading-none mt-0.5 w-7 shrink-0">
               #{item.num}
             </span>
             <div>
